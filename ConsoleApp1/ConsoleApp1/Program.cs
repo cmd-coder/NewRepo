@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("My first repository");
             Console.WriteLine("This is my first branch");
+            Console.WriteLine("This is my second branch");
         }
     }
 }
